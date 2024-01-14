@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rymv07.
 - 👀 I’m interested in Software and Game Development.
-- 🌱 I’m currently learning C# and Unity.
+- 🌱 I’m currently learning C# for Software and Unreal for Game Development.
 - 💞️ I’m still learning and keep messing up the code just to practice the fundamentals. 
 
 
